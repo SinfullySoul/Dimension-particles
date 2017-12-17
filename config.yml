@@ -1,0 +1,23 @@
+name: '&aDimension Tablet'
+Lore:
+  - 'take you to other places'
+skin: 'http://textures.minecraft.net/texture/5a7b3b16e5d0c4cfd21c4eb9133e969aad7cc7303ccdf317512e26a4879b51'
+
+#  TL|TM|TR
+#  --+--+--
+#  ML|MM|MR   the creating
+#  --+--+--    ordered for recipe setup.
+#  BL|BM|BR
+
+
+# must use spigot Material.
+recipe:
+  TL: 'FLINT'
+  TM: 'FLINT'
+  TR: 'AIR'
+  ML: 'FLINT'
+  MM: 'DOUBLE_PLANT'
+  MR: 'FLINT'
+  BL: 'AIR'
+  BM: 'FLINT'
+  BR: 'FLINT'
